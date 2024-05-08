@@ -3,7 +3,7 @@
 
 My name is **IskandarAlex2** but my friends call me **Isk** or **Isky** depending on their liking. I don't want to disclose my real name for now although you can still find it somewhere on the internet if you try hard enough but would it be worth it?
 
-Anyway, you may use any pronoun with me like she, he, they, it, or whatever as long they're not weird ones which I don't disclose to prevent internet dramas (like gosh, can we stop these drama cultures already?).
+Anyway, you may use any pronoun with me like she, he, they, it, or whatever as long they're not weird ones which I won't disclose to prevent internet dramas (like gosh, can we stop these drama cultures already?).
 
 <img align="right" width="126" src="https://img.saihex.com/saihex.svg">
 
