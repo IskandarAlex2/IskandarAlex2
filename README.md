@@ -9,7 +9,7 @@ Anyway, you may use any pronoun with me like she, he, they, it, or whatever as l
 
 I own [Saihex Studios](https://github.com/Saihex) which is a small studio organization made by me where we focused on developing media entertainment as well as Free Open-Source Software! I do most of my work under the **Saihex Studios** organization and any repositories under my profile are often a side project that I don't plan to maintain for long.
 
-<img align="left" width="512" src="https://img.saihex.com/website_exclusive/general/web_banner.png?downscale=m">
+<img align="left" width="512" src="https://img.saihex.com/embed_pic.png?downscale=m">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
