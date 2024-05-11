@@ -1,13 +1,13 @@
 ### Greetings programmers, coders, system designers, or otherwise. Welcome to my GitHub profile! 😊
 <img align="right" width="126" src="https://avatars.githubusercontent.com/u/65650645">
 
-My name is **IskandarAlex2** but my friends call me **Isk** or **Isky** depending on their liking. I don't want to disclose my real name for now although you can still find it somewhere on the internet if you try hard enough but would it be worth it?
+My name is **IskandarAlex2** but my friends call me **Isk** or **Isky** depending on their liking. I don't want to disclose my real name for now although you can still find it somewhere on the internet if you try hard enough but would it be worth it? **Just as a warning,** my English isn't that great as it is not my native language and I am still learning.
 
 Anyway, you may use any pronoun with me like she, he, they, it, or whatever as long they're not weird ones which I won't disclose to prevent internet dramas (like gosh, can we stop these drama cultures already?).
 
 <img align="right" width="126" src="https://img.saihex.com/saihex.svg">
 
-I own [Saihex Studios](https://github.com/Saihex) which is a small studio organization made by me where we focused on developing media entertainment as well as Free Open-Source Software! I do most of my work under the **Saihex Studios** organization and any repositories under my personal profile are often a side project that I don't plan to maintain for long.
+I own [Saihex Studios](https://github.com/Saihex) which is a small studio organization made by me where we focused on developing media entertainment as well as Free Open-Source Software! I do most of my work under the **Saihex Studios** organization and any repositories under my profile are often a side project that I don't plan to maintain for long.
 
 <img align="left" width="512" src="https://img.saihex.com/website_exclusive/general/web_banner.png?downscale=m">
 
