@@ -9,6 +9,10 @@ Anyway, you may use any pronoun with me like she, he, they, it, or whatever as l
 
 I own [Saihex Studios](https://github.com/Saihex) which is a small studio organization made by me where we focused on developing media entertainment as well as Free Open-Source Software! I do most of my work under the **Saihex Studios** organization and any repositories under my profile are often a side project that I don't plan to maintain for long.
 
+Links:
+- [Saihex Studios Main Website](https://www.saihex.com)
+- [Saihex Studios Wiki Website](https://wiki.saihex.com)
+
 Other social media:
 - [Twitter (X)](https://twitter.com/Alex2Iskandar)
 - [YouTube](https://www.youtube.com/IskandarAlex2)
