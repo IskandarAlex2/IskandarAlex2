@@ -17,14 +17,10 @@ Fun fact, 10 feet is the height of Sairo from head to foot excluding ears as she
 IU is equal to Blender meter on default setting by [Blender 4.0](https://www.blender.org/download/releases/4-0/)
 
 ratio for metric **Iskyverse Unit (IU) : Centimeter**
-\[
-1 : \frac{6096}{293}
-\]
+$$1 : \frac{6096}{293}$$
 
 Where for the Americans you may use **IU : Feet**
-\[
-14.65 : 10
-\]
+$$14.65 : 10$$
 
 ## List of subuniverses
 - [The 4Tris](https://wiki.saihex.com/wiki/The4Tris)
