@@ -11,7 +11,7 @@ In Iskyverse any entities that can hop universes can freely hop to other subuniv
 As of July 1st, 2024, the icon for Iskyverse is the [character category](https://wiki.saihex.com/wiki/The4Tris/category/Characters) icon for [The 4Tris wiki](https://wiki.saihex.com/wiki/The4Tris).
 
 ## Iskyverse Unit
-**ISKYVERSE UNIT IS DEPRECATED AS 10th July 2024. MEASUREMENTS OF DISTANCE AND SCALE ARE NOT EQUAL TO REAL LIFE.**
+**ISKYVERSE UNIT IS DEPRECATED AS 10th July 2024. MEASUREMENTS OF DISTANCE AND SCALE ARE EQUAL TO REAL LIFE.**
 
 **ANY MODELS THAT USED ISKYVERSE UNIT MEASUREMENTS CAN BE CONVERTED TO CENTIMETER BY MULTIPLYING BY `0.208`.**
 
