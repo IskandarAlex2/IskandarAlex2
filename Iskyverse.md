@@ -13,7 +13,7 @@ As of July 1st, 2024, the icon for Iskyverse is the [character category](https:/
 ## Iskyverse Unit
 **ISKYVERSE UNIT IS DEPRECATED AS 10th July 2024. MEASUREMENTS OF DISTANCE AND SCALE ARE EQUAL TO REAL LIFE.**
 
-**ANY MODELS THAT USED ISKYVERSE UNIT MEASUREMENTS CAN BE CONVERTED TO CENTIMETER BY MULTIPLYING BY `0.208`.**
+**ANY MODELS THAT USED ISKYVERSE UNIT MEASUREMENTS CAN BE CONVERTED TO METER BY MULTIPLYING BY `0.208`.**
 
 ~~The Iskyverse scale to real life isn't equal due to complications during the creation of said scale with current models. So, the Iskyverse Unit (Abbreviated as **IU**) has the following ratios.~~
 
