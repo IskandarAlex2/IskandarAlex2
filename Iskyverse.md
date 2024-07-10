@@ -11,15 +11,19 @@ In Iskyverse any entities that can hop universes can freely hop to other subuniv
 As of July 1st, 2024, the icon for Iskyverse is the [character category](https://wiki.saihex.com/wiki/The4Tris/category/Characters) icon for [The 4Tris wiki](https://wiki.saihex.com/wiki/The4Tris).
 
 ## Iskyverse Unit
-The Iskyverse scale to real life isn't equal due to complications during the creation of said scale with current models. So, the Iskyverse Unit (Abbreviated as **IU**) has the following ratios.
+**ISKYVERSE UNIT IS DEPRECATED AS 10th July 2024. MEASUREMENTS OF DISTANCE AND SCALE ARE NOT EQUAL TO REAL LIFE.**
 
-Fun fact, 10 feet is the height of Sairo from head to foot excluding ears as she is one of the first persistent models in Iskyverse resulting in her being on the scale of IU.
-IU is equal to Blender meter on default setting by [Blender 4.0](https://www.blender.org/download/releases/4-0/)
+**ANY MODELS THAT USED ISKYVERSE UNIT MEASUREMENTS CAN BE CONVERTED TO CENTIMETER BY MULTIPLYING BY `0.208`.**
 
-ratio for metric **Iskyverse Unit (IU) : Centimeter**
+~~The Iskyverse scale to real life isn't equal due to complications during the creation of said scale with current models. So, the Iskyverse Unit (Abbreviated as **IU**) has the following ratios.~~
+
+~~Fun fact, 10 feet is the height of Sairo from head to foot excluding ears as she is one of the first persistent models in Iskyverse resulting in her being on the scale of IU.~~
+~~IU is equal to Blender meter on default setting by [Blender 4.0](https://www.blender.org/download/releases/4-0/)~~
+
+~~ratio for metric **Iskyverse Unit (IU) : Centimeter**~~
 $$1 : \frac{6096}{293}$$
 
-Where for the Americans you may use **IU : Feet**
+~~Where for the Americans you may use **IU : Feet**~~
 $$14.65 : 10$$
 
 ## List of subuniverses
