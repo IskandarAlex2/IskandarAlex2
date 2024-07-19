@@ -11,7 +11,7 @@ I own [Saihex Studios](https://github.com/Saihex) which is a small studio organi
 
 I used this page as my main social media hub because I can write this in a way I enjoy and link to anywhere (of course, all links here are HTTP**S** and SFW). This page only serves as my social network navigation signboard where the links down below are the signs.
 
-I am not a very social person and often get uncomfortable in large groups of people so I won't be that direct with each of my audiences.
+I am not a very social person and often get uncomfortable in large groups of people so I won't be that direct with each of my audiences and friends.
 
 Links:
 - [Saihex Studios Main Website](https://www.saihex.com)
