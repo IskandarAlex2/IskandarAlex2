@@ -20,6 +20,7 @@ Links:
 - [Information about Iskyverse](https://github.com/IskandarAlex2/IskandarAlex2/blob/master/Iskyverse.md)
 
 Other social media:
+- [Bluesky](https://bsky.app/profile/iskandaralex2.bsky.social)
 - [Twitter (X) - WARNING: USERNAME IS @Alex2Iskandar](https://twitter.com/Alex2Iskandar)
 - [YouTube](https://www.youtube.com/IskandarAlex2)
 
