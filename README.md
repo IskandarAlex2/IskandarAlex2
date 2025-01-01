@@ -1,3 +1,5 @@
+# Notice: new social directory and main profile: [https://iskandaralex2.carrd.co/](https://iskandaralex2.carrd.co/)
+
 ### Greetings programmers, coders, system designers, or otherwise. Welcome to my GitHub profile! 😊
 <img align="right" width="126" src="https://avatars.githubusercontent.com/u/65650645">
 
