@@ -19,7 +19,7 @@ Links:
 - [Saihex Studios Main Website](https://www.saihex.com)
 - [Saihex Studios Wiki Website](https://wiki.saihex.com)
 - [Tenor for my gifs](https://tenor.com/users/iskandaralex2)
-- [Information about Iskyverse](https://github.com/IskandarAlex2/IskandarAlex2/blob/master/Iskyverse.md)
+- [Information about Iskyverse](https://wiki.saihex.com/wiki/Iskyverse)
 
 Other social media:
 - [Bluesky](https://bsky.app/profile/iskandaralex2.bsky.social)
