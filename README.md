@@ -7,7 +7,7 @@ My name is **IskandarAlex2** but my friends call me **Isk** or **Isky** dependin
 
 Anyway, you may use any pronoun with me like she, he, they, it, or whatever as long they're not weird ones which I won't disclose to prevent internet dramas (like gosh, can we stop these drama cultures already?).
 
-<img align="right" width="126" src="https://img.saihex.com/saihex.svg">
+<img align="right" width="126" src="https://s3.saihex.com/public/saihex.svg">
 
 I own [Saihex Studios](https://github.com/Saihex) which is a small studio organization I made where we focused on developing media entertainment and Free Open-Source Software! I do most of my work under the **Saihex Studios** organization and any repositories under my profile are often a side project that I don't plan to maintain for long.
 
@@ -25,8 +25,6 @@ Other social media:
 - [Bluesky](https://bsky.app/profile/iskandaralex2.bsky.social)
 - [Twitter (X) - WARNING: USERNAME IS @Alex2Iskandar](https://twitter.com/Alex2Iskandar)
 - [YouTube](https://www.youtube.com/IskandarAlex2)
-
-<img align="left" width="512" src="https://img.saihex.com/embed_pic.png?downscale=m">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -52,10 +50,6 @@ Other social media:
   
   <a href="https://nuxt.com" target="_blank" rel="noreferrer"> 
     <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="nuxtjs" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
   </a> 
   
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
